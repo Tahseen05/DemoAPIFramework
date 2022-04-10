@@ -22,8 +22,7 @@ public class GetApi2
 				
 				
 				RestAssured.baseURI = "https://bookstore.toolsqa.com/BookStore/v1";
-
-				
+	
 				// Request Object
 				RequestSpecification ga = RestAssured.given();
 				
