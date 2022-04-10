@@ -19,6 +19,8 @@ public class GetApi2
 			{
 				// to specify base uri
 //				RestAssured.baseURI = "http://restapi.demoqa.com/utilities/weather/city";
+				
+				
 				RestAssured.baseURI = "https://bookstore.toolsqa.com/BookStore/v1";
 
 				
